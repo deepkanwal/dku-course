@@ -1,4 +1,4 @@
-# docker-and-kubernetes-udmey
+# docker-and-kubernetes-course
 
 Going through the Docker and Kubernetes: The Complete Guide course on Udmey.
 
